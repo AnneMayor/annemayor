@@ -2,6 +2,8 @@
   <a href="https://velog.io/@pranne1224" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/> 
   <a href="melllamodahye@gmail.com" target="_blank"><img src="https://img.shields.io/badge/melllamodahye@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dahye-anne-lee/" target="_blank"><img src="https://img.shields.io/badge/DahyeLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=luok377)](https://solved.ac/luok377)
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DahyeLee&fontSize=70&animation=blink)
@@ -24,12 +26,16 @@ I love to contribute open source projects too 😁
 &nbsp
 &nbsp
 <h1 align="center">Tech-Talk</h1>
-<div>
-  
-</div>
 
+  [![AnneMayor's github stats](https://medium.com/@pranne1224/%EA%B2%BD%ED%97%98%EB%8B%B4-husky-v7-git-hook-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95-a9c380e17b30)](https://medium.com/@pranne1224)
+
+<h1 align="center">Activities</h1>
 <div align="center">
+  
+  [![AnneMayor's github stats](https://github-readme-stats.vercel.app/api?username=annemayor&show_icons=true&theme=dracula)](https://github.com/annemayor/github-readme-stats)
+  <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnneMayor&count_bg=%234DCD11&title_bg=%23585151&icon=github.svg&icon_color=%23F3F0F0&title=hits&edge_flat=false"/></a>
+  
 </div>
 
 <h4 align="center">If you want to improve your english skill or learn and discuss various technologies like Tech-Talk, please join in 
