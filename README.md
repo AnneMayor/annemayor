@@ -20,18 +20,18 @@ I love to contribute open source projects too 😁
 <h4 align="center"> Hobbies: 📚 🌴 🏃‍♀️ 🚴‍♀️ <br> Languages: 🇰🇷 🇺🇸 </h4>
 &nbsp
 &nbsp
-<h1 align="center">🛠 Tech Stack 🛠</h1>
+<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
 <div align="center"><img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 </div>
 &nbsp
 &nbsp
-<h1 align="center">Tech-Talk</h1>
+<h1 align="center"> 🧑‍🎓 Tech-Talk</h1>
 
 <div align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranne1224/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranne1224/0" alt="Recent Article 0">
 </div>
 <br>
-<h1 align="center">Activities</h1>
+<h1 align="center"> 🌟 Activities 🌟</h1>
 <div align="center">
   
   [![AnneMayor's github stats](https://github-readme-stats.vercel.app/api?username=annemayor&show_icons=true&theme=dracula)](https://github.com/annemayor/github-readme-stats)
