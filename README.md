@@ -27,17 +27,17 @@ I love to contribute open source projects too 😁
 &nbsp
 <h1 align="center">Tech-Talk</h1>
 
-  [![AnneMayor's github stats](https://medium.com/@pranne1224/%EA%B2%BD%ED%97%98%EB%8B%B4-husky-v7-git-hook-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95-a9c380e17b30)](https://medium.com/@pranne1224)
-
+<div align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranne1224/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranne1224/0" alt="Recent Article 0">
+</div>
+<br>
 <h1 align="center">Activities</h1>
 <div align="center">
   
   [![AnneMayor's github stats](https://github-readme-stats.vercel.app/api?username=annemayor&show_icons=true&theme=dracula)](https://github.com/annemayor/github-readme-stats)
-  <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnneMayor&count_bg=%234DCD11&title_bg=%23585151&icon=github.svg&icon_color=%23F3F0F0&title=hits&edge_flat=false"/></a>
   
 </div>
-
+<br>
 <h4 align="center">If you want to improve your english skill or learn and discuss various technologies like Tech-Talk, please join in 
   <a href="https://github.com/ready-techie">Ready-Techie</a>!</h4>
 
