@@ -2,8 +2,6 @@
   <a href="https://velog.io/@pranne1224" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/> 
   <a href="melllamodahye@gmail.com" target="_blank"><img src="https://img.shields.io/badge/melllamodahye@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dahye-anne-lee/" target="_blank"><img src="https://img.shields.io/badge/DahyeLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=luok377)](https://solved.ac/luok377)
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DahyeLee&fontSize=70&animation=blink)
