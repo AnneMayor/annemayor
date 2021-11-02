@@ -32,7 +32,7 @@ I love to contribute open source projects too 😁
   
 </div>
 <br>
-<h4 align="center">If you want to improve your english skill or learn and discuss various technologies like Tech-Talk, please join in 
+<h4>If you want to improve your english skill or learn and discuss various software technologies like Tech-Talk, please join in 
   <a href="https://github.com/ready-techie">Ready-Techie</a>!</h4>
 
 <!--
