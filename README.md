@@ -28,7 +28,7 @@ I love to contribute open source projects too 😁
 <h1 align="center"> 🌟 Activities 🌟</h1>
 <div align="center">
   
-  [![AnneMayor's github stats](https://github-readme-stats.vercel.app/api?username=annemayor&show_icons=true&theme=dracula)](https://github.com/annemayor/github-readme-stats)
+  ![AnneMayor's gitHub stats](https://github-readme-stats.vercel.app/api?username=annemayor&show_icons=true&theme=radical)
   
 </div>
 <br>
