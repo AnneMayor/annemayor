@@ -15,17 +15,6 @@ My goal is to create new framework or programming language to contribute the wor
 I am interested in open source contributions 😁
 </p>
 <h4 align="center"> Hobbies: 📚 🌴 🏃‍♀️ 🚴‍♀️ <br> Languages: 🇰🇷 🇺🇸 </h4>
-&nbsp
-&nbsp
-&nbsp
-<br>
-<h1 align="center"> 🌟 Activities 🌟</h1>
-<div align="center">
-  
-  ![AnneMayor's gitHub stats](https://github-readme-stats.vercel.app/api?username=annemayor&show_icons=true&theme=radical)
-  
-</div>
-<br>
 
 <!--
 **AnneMayor/annemayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
