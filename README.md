@@ -10,7 +10,7 @@ I am:
    - 🇰🇷 Born and raised in South Korea. But fluent in English through Software Engineering Internship in New York 🇺🇸
    - Crushing on 🏋️‍♂️F45 Training Pragram and running. I hope to join in Boston Marathon Contest someday 🏃‍♀️
    - 📚🎧☕ Love to read books in beautiful cafe with tasty coffee. I used to travel to look for awesome cafes to rest.
-   - 🎨 Fan of Webtoon, Japanese Animation and Disney
+   - 🎨 Fan of Seventeen, Webtoon, Japanese Animation and Disney
 
 
 <!--
