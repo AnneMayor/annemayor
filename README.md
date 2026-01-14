@@ -6,8 +6,6 @@ My goal is to create new framework or programming language to contribute the wor
 <br>
 I am interested in open source contributions 😁
 
-![Anne Lee's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=annemayor)
-
 I am:
    - 🇰🇷 Born and raised in South Korea. But fluent in English through Software Engineering Internship in New York 🇺🇸
    - Crushing on 🏋️‍♂️F45 Training Pragram and running. I hope to join in Boston Marathon Contest someday 🏃‍♀️
